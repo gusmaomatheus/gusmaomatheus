@@ -59,9 +59,11 @@ const Matheus = {
 
 ### Contato:
 
-<br><p align="center">
-    <a href="https://img.shields.io">
+<p align="center">
+    <a href="https://www.linkedin.com/in/gusmaom/">
         <img src="https://img.shields.io/badge/-in/gusmaom-6633cc?style=flat-square&color=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusmaom/" style="margin-right: 4"/>
+    </a>
+    <a href="mailto:mgusmao.dev@gmail.com">
         <img src="https://img.shields.io/badge/-mgusmao.dev@gmail.com-6633cc?style=flat-square&color=EA4335&logo=Gmail&logoColor=white&link=mailto:mgusmao.dev@gmail.com" style="margin-right: 4"/>
     </a>
 </p>
