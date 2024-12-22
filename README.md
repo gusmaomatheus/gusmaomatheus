@@ -1,22 +1,11 @@
-```javascript
-const Matheus = {
-  age: 20,
-  location: {
-    country: 'Brazil',
-    state: 'São Paulo',
-    city: 'São Carlos', 
-  },
-  hobbies: ['Programming', 'Learn', 'Soccer', 'Music', 'Games'],
-  job: 'Software Engineer',
-  education: [
-    {
-      course: 'Development and Analysis of Systems',
-      degree: 'Higher Technology Course',
-      institution: 'IFSP - São Carlos',
-      status: 'Enrolled',
-    },
-  ],
-};
+```java
+public People() {
+  this.fullName = "Matheus Gusmão";
+  this.age = 20;
+  this.occupation = "Software Developer";
+  this.citizenship "Brazilian";
+  this.hobbies = new String[] {"Programming", "Learn", "Soccer"};
+}
 ```
 <hr>
 
@@ -35,7 +24,7 @@ const Matheus = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,nodejs,php,spring,express,fastapi&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=clojure,java,c,python,nodejs,php,kafka,spring,express,fastapi&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -43,7 +32,7 @@ const Matheus = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,cassandra,mongodb&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -51,7 +40,7 @@ const Matheus = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gradle,maven,npm,docker,linux,md,postman,&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,maven,npm,docker,linux,md,postman&perline=10&theme=dark" />
   </a>
 </p>
 
