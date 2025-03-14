@@ -16,7 +16,7 @@ public People() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,tailwind,bootstrap&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,tailwind,bootstrap,vite&perline=9&theme=dark" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ public People() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=clojure,java,c,python,nodejs,php,kafka,spring,express,fastapi&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=clojure,java,c,python,nodejs,php,kafka,spring,express,fastapi,hibernate,rabbitmq&perline=12&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ public People() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,cassandra,mongodb&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,cassandra,mongodb,oracle&perline=10&theme=dark" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ public People() {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,maven,npm,docker,linux,md,postman&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,gradle,maven,npm,docker,linux,md,postman,aws,elasticsearch&perline=12&theme=dark" />
   </a>
 </p>
 
