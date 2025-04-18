@@ -1,11 +1,10 @@
-```java
-public People() {
-  this.fullName = "Matheus Gusmão";
-  this.age = 20;
-  this.occupation = "Software Developer";
-  this.citizenship "Brazilian";
-  this.hobbies = new String[] {"Programming", "Learn", "Soccer"};
-}
+```clojure
+(def myself
+  {:name "Matheus Gusmão"
+   :age 20
+   :occupation "Software Developer"
+   :location "São Carlos, SP"
+   :hobbies ["Code", "Books" "Soccer"]})
 ```
 <hr>
 
