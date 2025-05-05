@@ -4,7 +4,7 @@
    :age 20
    :occupation "Software Developer"
    :location "São Carlos, SP"
-   :hobbies ["Code", "Books" "Soccer"]})
+   :hobbies ["Code" "Books" "Soccer"]})
 ```
 <hr>
 
